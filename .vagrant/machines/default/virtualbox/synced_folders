@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/home-grain-supplier":{"guestpath":"/home/vagrant/home-grain-supplier","hostpath":"/home/betoche_1/development/eclipse-workspace/home-grain-supplier","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/betoche_1/development/eclipse-workspace/home-grain-supplier","disabled":false,"__vagrantfile":true}}}
